@@ -6,7 +6,7 @@
 </p>
 
 # About
-Full Stack Working Amazon Clone app with Admin Dashboard using Flutter and Backend with NodeJs and MongoDB + Atlas.
+Full Stack Working Amazon Clone app with Admin Dashboard using Flutter and Backend with NodeJs, MongoDB & Cloudinary.
 
 ## Demo
 <div class="row">
@@ -26,7 +26,7 @@ Full Stack Working Amazon Clone app with Admin Dashboard using Flutter and Backe
 
 ## Getting Started
 
-This project is a Full stack app for Amazon clone with Admin panel and Server side Flutter and Nodejs application.
+This project is a Full stack app for Amazon clone with Admin panel and Server side Nodejs application.
 
 ### Features
 - User Registration and Login with email and password
@@ -58,7 +58,7 @@ This project is a Full stack app for Amazon clone with Admin panel and Server si
     
 ### Requirements
 
-* Get a free API Key at https://cloudinary.com/ for store products image
+* Get a free API Key at https://cloudinary.com/ for storing products image
 * Update Cloud name and Upload preset at ``` lib -> features -> admin -> services -> admin_services.dart ```
 * ![image](https://user-images.githubusercontent.com/3157579/178201535-ca05d27a-4b32-4586-b2eb-fdbee71447f0.png)
 * Create MongoDB at https://cloud.mongodb.com/  and Add your connection string into your application code
@@ -81,7 +81,7 @@ To run the server, run the following commands:
 Before starting 🏁, you need to have Flutter installed.
 ```
 # Clone this project
-$ git clone https://github.com/RathaKrishna/flutter_amazon_clone.git
+$ git clone https://github.com/kaushal1999/Amazon-clone-flutter
 
 # Access
 $ cd amazon_clone
