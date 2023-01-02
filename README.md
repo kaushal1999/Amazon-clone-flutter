@@ -6,7 +6,7 @@
 </p>
 
 # About
-Full Stack Working Amazon Clone app with Admin Dashboard using Flutter and Backend with NodeJs, MongoDB & Cloudinary.
+Full Stack Working Amazon Clone app with Admin Dashboard using Flutter for Frontend and Backend with NodeJs, MongoDB & Cloudinary.
 
 ## Demo
 <div class="row">
