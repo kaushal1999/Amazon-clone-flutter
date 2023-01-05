@@ -8,6 +8,12 @@
 # About
 Full Stack Working Amazon Clone app with Admin Dashboard using Flutter for Frontend and Backend with NodeJs, MongoDB & Cloudinary.
 
+
+## Tech Used
+**Server**: Node.js, Express, Mongoose, MongoDB, Cloudinary
+
+**Client**: Flutter, Provider
+
 ## Demo
 <div class="row">
 
